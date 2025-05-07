@@ -30,4 +30,4 @@ Feel free to fork and submit pull requests with new features or improvements!
 License
 This project is licensed under the MIT License.
 
-For more updated and verified scholarship opportunities, visit [Scholarship Safe](https://scholarshipsafe.com) — your trusted resource for global scholarships.
+To find more opportunities, visit [Scholarship Safe](https://scholarshipsafe.com) — your trusted resource for global scholarships.
