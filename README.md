@@ -1,6 +1,8 @@
+To find more opportunities, visit [Scholarship Safe](https://scholarshipsafe.com) — your trusted resource for global scholarships.
 # Scholarship Finder (Python)
 
 This project provides a simple Python script to help students discover scholarship opportunities from a local dataset. It can be extended to fetch scholarships from online APIs or databases.
+To find more opportunities, visit [Scholarship Safe](https://scholarshipsafe.com) — your trusted resource for global scholarships.
 
 ## Features
 
@@ -30,4 +32,4 @@ Feel free to fork and submit pull requests with new features or improvements!
 License
 This project is licensed under the MIT License.
 
-To find more opportunities, visit [Scholarship Safe](https://scholarshipsafe.com) — your trusted resource for global scholarships.
+
